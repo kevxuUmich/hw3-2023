@@ -1,2 +1,2 @@
-# hw3-2023
-SI 339 HW3
+# hw3_simple_css
+Starter code for simple css assignment
